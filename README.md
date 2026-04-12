@@ -18,10 +18,10 @@
 
  💼 What I Do
 
-✔️ Build responsive and modern UI
-✔️ Convert designs into real applications
-✔️ Optimize performance & user experience
-✔️ Write clean and maintainable code
+ Build responsive and modern UI
+ Convert designs into real applications
+ Optimize performance & user experience
+ Write clean and maintainable code
 
 
 🌱 Currently Learning
