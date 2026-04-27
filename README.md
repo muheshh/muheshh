@@ -1,11 +1,10 @@
-👋 Hi, I'm Muhesh M
+ Hi, I'm Muhesh M
 
-🚀 Frontend MERN Stack Developer with 1+ year of hands-on experience building scalable and responsive web applications.
+ Frontend MERN Stack Developer with 1+ year of hands-on experience building scalable and responsive web applications.
+ I specialize in creating clean, user-friendly interfaces using modern technologies and best practices.
 
-💡 I specialize in creating clean, user-friendly interfaces using modern technologies and best practices.
 
-
- 🛠️ Tech Stack
+ Tech Stack
 
 * ⚛️ React.js
 * 🟨 JavaScript (ES6+)
@@ -15,8 +14,7 @@
 * 🗄️ MongoDB (Basics)
 * ⚙️ Node.js & Express (Basics)
 
-
- 💼 What I Do
+What I Do
 
  Build responsive and modern UI
  Convert designs into real applications
@@ -24,21 +22,20 @@
  Write clean and maintainable code
 
 
-🌱 Currently Learning
+Currently Learning
 
 * Next.js
 * TypeScript
 * Advanced React Patterns
 
 
-🎯 Career Goal
+Career Goal
 
 To become a highly skilled Full Stack Developer and build impactful real-world products.
 
+Connect With Me
 
-📫 Connect With Me
-
-🌐 Portfolio: https://linkedin.com/in/muhesh-m
+Portfolio: https://linkedin.com/in/muhesh-m
 
 
    Code. Learn. Build. Repeat.
