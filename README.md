@@ -1,6 +1,6 @@
  Hi, I'm Muhesh M
 
- Frontend MERN Stack Developer with 1+ year of hands-on experience building scalable and responsive web applications.
+ Frontend MERN Stack Developer experience in building scalable and responsive web applications.
  I specialize in creating clean, user-friendly interfaces using modern technologies and best practices.
 
 
