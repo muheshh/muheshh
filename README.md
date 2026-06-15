@@ -1,41 +1,68 @@
- Hi, I'm Muhesh M
+Hi, I'm Muhesh M
 
- Frontend MERN Stack Developer experience in building scalable and responsive web applications.
- I specialize in creating clean, user-friendly interfaces using modern technologies and best practices.
+Full Stack (MERN) Developer | Building Scalable Web Applications
 
+I am a Full Stack Developer specializing in the MERN stack, focused on building scalable, responsive, and performance-driven web applications.
 
- Tech Stack
+I enjoy transforming ideas into real-world products using clean architecture, reusable components, and efficient backend systems. My focus is on writing maintainable code and delivering smooth user experiences.
 
-* ⚛️ React.js
-* 🟨 JavaScript (ES6+)
-* 🌐 HTML5 & CSS3
-* 🎨 Bootstrap / Tailwind CSS
-* 🔗 REST APIs
-* 🗄️ MongoDB (Basics)
-* ⚙️ Node.js & Express (Basics)
+My goal is to build applications that are not only functional but also scalable, efficient, and user-centric.
 
-What I Do
+Technical Expertise
 
- Build responsive and modern UI
- Convert designs into real applications
- Optimize performance & user experience
- Write clean and maintainable code
+Frontend Development
 
+React.js (Component-based architecture)
+JavaScript (ES6+)
+HTML5
+CSS3
+Tailwind CSS / Bootstrap
+Responsive UI development
+
+Backend Development
+
+Node.js
+Express.js
+RESTful API development
+Authentication and authorization (basic JWT)
+
+Database
+
+MongoDB
+Mongoose ODM
+
+Tools & Workflow
+
+Git & GitHub
+Postman
+VS Code
+Basic deployment knowledge
+
+What I Build
+
+Full stack MERN applications
+Responsive web interfaces
+Authentication systems
+REST API based applications
+CRUD and dashboard applications
 
 Currently Learning
 
-* Next.js
-* TypeScript
-* Advanced React Patterns
+Advanced React patterns and performance optimization
+Next.js for server-side rendering and SEO
+TypeScript for scalable applications
+System design fundamentals
 
+Career Objective
 
-Career Goal
+To become a highly skilled Full Stack Developer and contribute to real-world impactful products while continuously improving my technical and problem-solving abilities.
 
-To become a highly skilled Full Stack Developer and build impactful real-world products.
+Featured Work
 
-Connect With Me
+I am actively building real-world MERN projects. More projects will be added soon.
 
-Portfolio: https://linkedin.com/in/muhesh-m
+LinkedIn: https://linkedin.com/in/muhesh-m
 
+Philosophy
 
-   Code. Learn. Build. Repeat.
+Clean code, continuous learning, and real-world building lead to mastery.
