@@ -21,22 +21,22 @@ Frontend Development
 
 Backend Development
 
-🟢 Node.js
-🚀 Express.js
-🔗 RESTful API development
-🔐 Authentication and authorization (basic JWT)
+🟢 Node.js   
+🚀 Express.js   
+🔗 RESTful API development      
+🔐 Authentication and authorization (basic JWT)    
 
 Database
 
-🍃 MongoDB
-🧩 Mongoose ODM
+🍃 MongoDB      
+🧩 Mongoose ODM      
 
 Tools & Workflow
 
-🐙 Git & GitHub
-🧪 Postman
-💻 VS Code
-☁️ Basic deployment knowledge
+🐙 Git & GitHub     
+🧪 Postman      
+💻 VS Code      
+☁️ Basic deployment knowledge      
 
 What I Build
 
